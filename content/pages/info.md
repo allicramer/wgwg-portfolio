@@ -144,6 +144,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+    title: Our Team
   - type: DividerSection
     styles:
       self:
