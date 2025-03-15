@@ -75,7 +75,7 @@ sections:
       - type: ImageBlock
         url: /images/testtube.svg
         altText: Graphic of test tubes
-        caption: Caption of the image
+        caption: Lab methods
         elementId: ''
     spacing: 3
     columns: 5
