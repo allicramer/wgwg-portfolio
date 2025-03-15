@@ -113,7 +113,7 @@ sections:
         title: Lead Researcher
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/headshot_cropped.jpeg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
