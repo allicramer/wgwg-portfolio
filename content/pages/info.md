@@ -59,7 +59,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/diving.svg
-        altText: altText of the image
+        altText: Graphic of SCUBA diver
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
