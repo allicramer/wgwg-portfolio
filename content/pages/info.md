@@ -55,7 +55,7 @@ sections:
       - type: ImageBlock
         url: /images/chart.svg
         altText: Graphic of chart with trendline
-        caption: Caption of the image
+        caption: Analysis
         elementId: ''
       - type: ImageBlock
         url: /images/diving.svg
