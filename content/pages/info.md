@@ -69,7 +69,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/dna.png
+        url: /images/diving.svg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
