@@ -4,7 +4,7 @@ title: "First Grant Submitted!\U0001F30E"
 colors: colors-a
 date: '2024-03-14'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Fingers crossed we get funded
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
