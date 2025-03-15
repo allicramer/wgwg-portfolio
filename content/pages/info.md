@@ -53,10 +53,6 @@ sections:
     subtitle: Our Tools
     images:
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
         url: /images/diving.svg
         altText: altText of the image
         caption: Caption of the image
