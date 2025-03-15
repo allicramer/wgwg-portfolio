@@ -6,7 +6,7 @@
     "bio": "Joanna is currently a Professor in the Department of Ecology and Evolutionary Biology at University of California Santa Cruz. She was previously in the School of Biological Sciences at Washington State University. Her research focuses on the genomic basis of adaptation, with a special emphasis on extreme environments. She is a member of the Society for Molecular Biology and Evolution (SMBE).\n\n",
     "image": {
         "type": "ImageBlock",
-        "url": "https://assets.stackbit.com/components/images/default/default-person.png",
+        "url": "/images/Jkelley.jpg",
         "altText": "Person photo",
         "caption": "Caption of the image",
         "elementId": ""
