@@ -4,7 +4,7 @@ title: Home
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Space2Sea.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
