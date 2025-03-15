@@ -127,7 +127,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Jkelley.jpg
-          altText: Johnna Doe
+          altText: Joanna Kelley
           caption: Caption of the image
           elementId: ''
         elementId: ''
