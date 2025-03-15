@@ -7,7 +7,7 @@ client: NASA
 description: 'More ideas, more problems'
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/gallery-1.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
