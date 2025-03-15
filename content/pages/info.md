@@ -60,7 +60,7 @@ sections:
       - type: ImageBlock
         url: /images/diving.svg
         altText: Graphic of SCUBA diver
-        caption: Caption of the image
+        caption: Field methods
         elementId: ''
       - type: ImageBlock
         url: /images/satellite.svg
