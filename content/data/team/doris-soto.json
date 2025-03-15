@@ -4,7 +4,7 @@
     "lastName": "Cramer",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
+        "url": "/images/headshot_cropped.jpeg",
         "altText": "Doris Soto photo"
     },
     "role": "Lead Researcher"
