@@ -40,28 +40,4 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: HeroSection
-    title: ''
-    subtitle: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row
-        textAlign: left
 ---
