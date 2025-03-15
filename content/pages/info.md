@@ -53,10 +53,6 @@ sections:
     subtitle: Our Tools
     images:
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
         url: /images/logo3.svg
         altText: Logo three
         caption: Logo three
