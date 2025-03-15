@@ -128,7 +128,7 @@ sections:
           type: ImageBlock
           url: /images/Jkelley.jpg
           altText: Joanna Kelley
-          caption: Caption of the image
+          caption: Lead Researcher
           elementId: ''
         elementId: ''
     colors: colors-a
