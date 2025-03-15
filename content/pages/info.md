@@ -53,7 +53,7 @@ sections:
     subtitle: Our Tools
     images:
       - type: ImageBlock
-        url: /images/diving.svg
+        url: /images/chart.svg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
