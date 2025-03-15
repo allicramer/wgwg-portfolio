@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/Space2Sea.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,14 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # This is an amazing initiative covering lots of projects which leverage
+      both genetic and satellite sampling to understand ecology and evolution. 
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/VectorLogo_grey.svg
       altText: Hero image
     styles:
       self:
@@ -52,28 +50,33 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: Our Tools
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
+        url: /images/chart.svg
+        altText: Graphic of chart with trendline
+        caption: Analysis
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
+        url: /images/diving.svg
+        altText: Graphic of SCUBA diver
+        caption: Field methods
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
+        url: /images/satellite.svg
+        altText: Graphic of satellite
+        caption: Satellite imagery
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
+        url: /images/dna.svg
+        altText: Graphic of DNA
+        caption: Genetics
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
+        url: /images/testtube.svg
+        altText: Graphic of test tubes
+        caption: Lab methods
+        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
@@ -100,187 +103,58 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 16
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >-
+          Allison Cramer is a forward-thinking marine ecologist and assistant
+          professor within ASU’s School of Mathematics and Natural Sciences. Her
+          work transcends traditional boundaries by applying data science,
+          innovative instrumentation, and hands-on experimentation to unlock new
+          insights into biodiversity. Cramer’s research examines the complex
+          mechanisms that shape marine life across scales of time and space,
+          positioning her at the forefront of efforts to predict and navigate
+          the impacts of global environmental changes. 
+        name: Alli Cramer
+        title: Lead Researcher
+        image:
+          type: ImageBlock
+          url: /images/headshot_cropped.jpeg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+      - type: Testimonial
+        quote: >-
+          Joanna is currently a Professor in the Department of Ecology and
+          Evolutionary Biology at University of California Santa Cruz. She was
+          previously in the School of Biological Sciences at Washington State
+          University. Her research focuses on the genomic basis of adaptation,
+          with a special emphasis on extreme environments. She is a member of
+          the Society for Molecular Biology and Evolution (SMBE).
+        name: Joanna Kelley
+        title: Lead Researcher
+        image:
+          type: ImageBlock
+          url: /images/Jkelley.jpg
+          altText: Joanna Kelley
+          caption: Lead Researcher
+          elementId: ''
+        elementId: ''
+    colors: colors-a
     variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-    columns: 2
-    spacingX: 60
-    spacingY: 60
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
         padding:
-          - pt-8
-          - pb-8
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
+    title: Our Team
   - type: DividerSection
     styles:
       self:
@@ -292,65 +166,26 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
+  - type: DividerSection
     styles:
       self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
         padding:
           - pt-12
           - pb-12
-          - pr-4
           - pl-4
-        flexDirection: row
-        textAlign: left
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
 ---
