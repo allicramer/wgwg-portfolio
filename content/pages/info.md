@@ -64,7 +64,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/satellite.svg
-        altText: altText of the image
+        altText: Graphic of satellite
         caption: Caption of the image
         elementId: ''
     spacing: 3
