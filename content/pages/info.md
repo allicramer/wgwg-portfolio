@@ -120,8 +120,12 @@ sections:
         elementId: ''
       - type: Testimonial
         quote: >-
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+          Joanna is currently a Professor in the Department of Ecology and
+          Evolutionary Biology at University of California Santa Cruz. She was
+          previously in the School of Biological Sciences at Washington State
+          University. Her research focuses on the genomic basis of adaptation,
+          with a special emphasis on extreme environments. She is a member of
+          the Society for Molecular Biology and Evolution (SMBE).
         name: Joanna Kelley
         title: Lead Researcher
         image:
