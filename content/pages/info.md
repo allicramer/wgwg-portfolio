@@ -19,7 +19,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WGWG_logo_color.png
       altText: Hero image
     styles:
       self:
