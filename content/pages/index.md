@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: Whole Genome Whole Gaia
     subtitle: From the smallest detail to the big picture
