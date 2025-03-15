@@ -69,7 +69,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/dna.svg
-        altText: altText of the image
+        altText: Graphic of DNA
         caption: Caption of the image
         elementId: ''
     spacing: 3
