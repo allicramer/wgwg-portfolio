@@ -6,11 +6,11 @@
     "onDark": "#FBFFF2",
     "primary": "#0804F6",
     "onPrimary": "#FBFFF2",
-    "secondary": "#FE491F",
+    "secondary": "#09f6de",
     "onSecondary": "#050806",
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
-    "fontBody": "\"DM Mono\", monospace",
-    "headingWeight": "400",
-    "headingCase": "uppercase"
+    "fontBody": "\"Azeret Mono\", monospace",
+    "headingWeight": "500",
+    "headingCase": "capitalize"
 }
