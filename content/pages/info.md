@@ -54,7 +54,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/chart.svg
-        altText: altText of the image
+        altText: Graphic of chart with trendline
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
