@@ -106,7 +106,15 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: ''
+        quote: >-
+          Allison Cramer is a forward-thinking marine ecologist and assistant
+          professor within ASU’s School of Mathematics and Natural Sciences. Her
+          work transcends traditional boundaries by applying data science,
+          innovative instrumentation, and hands-on experimentation to unlock new
+          insights into biodiversity. Cramer’s research examines the complex
+          mechanisms that shape marine life across scales of time and space,
+          positioning her at the forefront of efforts to predict and navigate
+          the impacts of global environmental changes. 
         name: Alli Cramer
         title: Lead Researcher
         image:
