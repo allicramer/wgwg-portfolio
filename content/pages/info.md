@@ -70,7 +70,7 @@ sections:
       - type: ImageBlock
         url: /images/dna.svg
         altText: Graphic of DNA
-        caption: Caption of the image
+        caption: Genetics
         elementId: ''
     spacing: 3
     columns: 5
