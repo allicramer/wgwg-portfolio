@@ -7,7 +7,7 @@ client: 'Port of San Diego '
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gallery-1.jpg
+  url: /images/LifeCycle.png
   altText: Project thumbnail image
 ---
 Global biodiversity is declining at an unprecedented rate, driven in large part by invasive species that outpace our ability to manage them. Despite large investments in conservation, we have failed to bend the curve of biodiversity loss—highlighting a critical gap between effort and impact. Advances in satellite remote sensing and genomic sequencing now offer a unique opportunity to close this gap, but only if these technologies are integrated into actionable, decision-ready tools. Invasive algae such as *Caulerpa prolifera* expose the limits of current approaches: management typically targets the visible, plant-like growth, while missing the invisible microscopic reproductive stage that enables long-distance spread and drives regional invasions.![](/images/LifeCycle.png)
