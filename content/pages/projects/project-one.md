@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A very cool project
 colors: colors-a
 date: '2025-03-14'
-client: NASA
+client: 'Port of San Diego '
 description: 'More ideas, more problems'
 featuredImage:
   type: ImageBlock
