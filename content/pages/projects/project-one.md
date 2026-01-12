@@ -15,17 +15,7 @@ description: >-
   prolifera expose the limits of current approaches: management typically
   targets the visible, plant-like growth, while missing the invisible
   microscopic reproductive stage that enables long-distance spread and drives
-  regional invasions. This project will integrate NASA Earth Observations with
-  genomic data to detect, model, and predict the spread of Caulerpa prolifera
-  across both life stages. By comparing distribution and reproductive dynamics
-  in native habitats (the subtropical Atlantic, Bermuda, at ASU’s BIOS Marine
-  Station) with a frontline invasion zone (subtropical Pacific, California, in
-  the Port of San Diego), we will develop a predictive invasion-forecasting
-  model. The outcome is a scalable, data-driven tool that enables managers to
-  move from reactive removal to proactive prevention, leveraging existing
-  infrastructure to deliver immediate value to the Port of San Diego, the
-  Southern California Caulerpa Action Team, and future invasive species response
-  efforts worldwide.
+  regional invasions. 
 featuredImage:
   type: ImageBlock
   url: /images/gallery-1.jpg
