@@ -1,10 +1,10 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: News
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Space2Sea.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -28,7 +28,7 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Blog
+    title: New Updates
     subtitle: ''
     actions: []
     colors: colors-f
