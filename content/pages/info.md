@@ -13,19 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      WGW uses molecular biology - genomics, transcriptomics, proteomics - and
+    text: >
+      WGWG uses molecular biology - genomics, transcriptomics, proteomics - and
       large scale remote sensing to promote understanding and conservation.  By
       combining specific, place-based information with global trends we can
       connect a changing ecology to evolution. Ultimately our projects provide
       insight into fundamental biological processes while producing actionable
-      information models for local systems. 
-
-
-
-
-
-
+      information models for local systems.
     media:
       type: ImageBlock
       url: /images/VectorLogo_grey.svg
