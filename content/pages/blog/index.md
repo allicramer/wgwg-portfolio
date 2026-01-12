@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Updates
+title: News
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
