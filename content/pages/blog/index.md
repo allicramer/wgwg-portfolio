@@ -28,7 +28,7 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Blog
+    title: New Updates
     subtitle: ''
     actions: []
     colors: colors-f
