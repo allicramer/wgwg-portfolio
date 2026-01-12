@@ -5,10 +5,6 @@ colors: colors-a
 date: '2024-03-14'
 author: content/data/team/doris-soto.json
 excerpt: Fingers crossed we get funded
-featuredImage:
-  type: ImageBlock
-  url: /images/contact.jpg
-  altText: Post thumbnail image
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
