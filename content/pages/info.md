@@ -13,10 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # This is an amazing initiative covering lots of projects which leverage
-      both genetic and satellite sampling to understand ecology and evolution. 
-
+    text: >
+      Leveraging genetic and satellite sampling to promote understanding and
+      conservation.
     media:
       type: ImageBlock
       url: /images/VectorLogo_grey.svg
