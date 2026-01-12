@@ -47,6 +47,7 @@ sections:
         textAlign: left
     type: HeroSection
     title: 'WGWG '
+    subtitle: Leveraging genetic and satellite data in the world's largest ecosystem
   - type: DividerSection
     styles:
       self:
