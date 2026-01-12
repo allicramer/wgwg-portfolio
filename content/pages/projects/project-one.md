@@ -7,7 +7,6 @@ client: 'Port of San Diego '
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/LifeCycle.jpg
   altText: >-
     Life Cycle of invasive Caulerpa algae. Includes invisible sexual
     reproduction and fragmentation phase - about 20% of population at any given
