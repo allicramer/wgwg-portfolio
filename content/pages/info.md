@@ -46,6 +46,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: 'WGWG '
   - type: DividerSection
     styles:
       self:
