@@ -15,7 +15,7 @@ description: >-
   prolifera expose the limits of current approaches: management typically
   targets the visible, plant-like growth, while missing the invisible
   microscopic reproductive stage that enables long-distance spread and drives
-  regional invasions.This project will integrate NASA Earth Observations with
+  regional invasions. This project will integrate NASA Earth Observations with
   genomic data to detect, model, and predict the spread of Caulerpa prolifera
   across both life stages. By comparing distribution and reproductive dynamics
   in native habitats (the subtropical Atlantic, Bermuda, at ASU’s BIOS Marine
