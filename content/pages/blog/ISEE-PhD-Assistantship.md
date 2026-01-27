@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: ISEE Presidential Graduate Assistantship
-date: '2024-02-14'
+date: '2024-06-14'
 author: content/data/team/doris-soto.json
 excerpt: Fingers crossed we get funded
 bottomSections:
