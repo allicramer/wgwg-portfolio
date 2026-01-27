@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "First Grant Submitted!\U0001F30E"
+title: ISEE Presidential Graduate Assistantship
 date: '2024-03-14'
 author: content/data/team/doris-soto.json
 excerpt: Fingers crossed we get funded
