@@ -3,7 +3,7 @@ type: PostLayout
 title: ISEE Presidential Graduate Assistantship
 date: '2025-11-15'
 author: content/data/team/doris-soto.json
-excerpt: Fingers crossed we get funded
+excerpt: ''
 bottomSections:
   - type: RecentPostsSection
     subtitle: Recent posts
